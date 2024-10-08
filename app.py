@@ -452,5 +452,5 @@ def main():
 
 if __name__ == '__main__':
     create_tables()
-    st.set_page_config(page_title="recommendation MVP", page_icon="🚀", initial_sidebar_state="collapsed", layout="wide")
+    st.set_page_config(page_title="Recommendation MVP", page_icon="🚀", initial_sidebar_state="collapsed", layout="wide")
     main()
